@@ -1,0 +1,12 @@
+SECOM cleaning report
+---------------------
+Rows (wafer runs)          : 1567
+Sensors raw                : 590
+  after missing-rate filter: 562 (-28)
+  after variance filter    : 446 (-116)
+  after correlation filter : 351 (-95)
+Sensors final              : 351
+
+Pass wafers                : 1463
+Fail wafers                : 104
+Fail rate                  : 6.64%
