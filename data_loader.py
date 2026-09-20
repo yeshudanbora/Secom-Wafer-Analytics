@@ -15,9 +15,6 @@ This module:
     4. Median-imputes remaining missing values.
     5. Writes a cleaned parquet for downstream SPC / FDC modules.
 
-Authoring note: the cleaning thresholds are intentionally conservative and
-documented inline so a hiring manager can audit each decision.
-"""
 
 from __future__ import annotations
 
